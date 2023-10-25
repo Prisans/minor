@@ -1,0 +1,42 @@
+.content-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.txt-container{
+    text-align: center;
+    margin-top: 10rem;
+    align-items: center;
+}
+
+.txt-container h1{
+    font-size: 4.6rem;
+}
+
+.txt-container p{
+    font-size: 1.2rem;
+}
+
+.icon-container{
+    margin-top: 6rem;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.icon-container .icon{
+    margin-bottom: 5rem;
+    width: 100px;
+    height: 100px;
+    background: none;
+    border-radius: 50%;
+    box-shadow: black 0 10px 10px;
+}
+
+.icon p{
+    margin-top: 7.3rem;
+    margin-left: 1.8rem;
+    font-size: 1.2rem;
+}

@@ -1,0 +1,34 @@
+.container-T{
+    background: rgb(229, 197, 197);
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.profile-img{
+    width: 290px;
+    height: 650px;
+    background: pink;
+}
+
+.profile-content{
+    width: 900px;
+    height: 650px;
+    background: rgb(186, 154, 235);
+}
+.T-txt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    height: 100%;
+}
+.bbtn{
+    width: 10rem;
+    height: 2.4rem;
+    border-radius: 17px;
+    font-size: 1rem;
+}
+
